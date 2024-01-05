@@ -1,0 +1,13 @@
+{
+    "name": "HX711",
+    "description": "Mục mở rộng cho Yolo UNO hỗ trợ cảm biến khối lượng",
+    "libs": [
+        "hx711.py"
+    ],
+    "blocks": [
+        "definition.js"
+    ],
+    "toolbox": "toolbox.xml",
+    "languages": {},
+    "poster": "poster.png"
+}
